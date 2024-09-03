@@ -1,0 +1,15 @@
+/workspaces/String_3Letter/bin/Debug/net8.0/String_3Letter
+/workspaces/String_3Letter/bin/Debug/net8.0/String_3Letter.deps.json
+/workspaces/String_3Letter/bin/Debug/net8.0/String_3Letter.runtimeconfig.json
+/workspaces/String_3Letter/bin/Debug/net8.0/String_3Letter.dll
+/workspaces/String_3Letter/bin/Debug/net8.0/String_3Letter.pdb
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.AssemblyInfoInputs.cache
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.AssemblyInfo.cs
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.csproj.CoreCompileInputs.cache
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.sourcelink.json
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.dll
+/workspaces/String_3Letter/obj/Debug/net8.0/refint/String_3Letter.dll
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.pdb
+/workspaces/String_3Letter/obj/Debug/net8.0/String_3Letter.genruntimeconfig.cache
+/workspaces/String_3Letter/obj/Debug/net8.0/ref/String_3Letter.dll
